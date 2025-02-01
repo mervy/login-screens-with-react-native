@@ -1,0 +1,2 @@
+- npx create-expo-app@latest --template
+- expo install react-native-paper react-native-vector-icons react-navigation react-navigation-stack
